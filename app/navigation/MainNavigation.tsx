@@ -13,7 +13,7 @@ const MainNavigation = () => {
         headerShown: false,
       }}>
       <Stack.Screen name={Screens.login} component={LoginScreen} />
-      <Stack.Screen name={Screens.signup} component={SignUpScreen} />
+      <Stack.Screen name={Screens.signUp} component={SignUpScreen} />
     </Stack.Navigator>
   );
 };
