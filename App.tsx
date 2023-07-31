@@ -15,7 +15,9 @@ import
 type SectionProps = PropsWithChildren<{
   title: string;
 }>;
-
+const styles = {
+  
+}
 function App(): JSX.Element {
   return <SafeAreaView></SafeAreaView>;
 }
