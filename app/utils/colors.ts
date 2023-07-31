@@ -1,6 +1,6 @@
 const Light = {
   background: '#FFFFFF',
-  primary: '##212121',
+  primary: '#212121',
 };
 
 const Dark = {
