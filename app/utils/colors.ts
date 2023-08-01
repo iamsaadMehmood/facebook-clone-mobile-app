@@ -7,3 +7,5 @@ const Dark = {
   background: '#000000',
   primary: '#FFFFFF',
 };
+
+export const Colors = Dark;
