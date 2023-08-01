@@ -1,10 +1,11 @@
 import {Text} from 'native-base';
 import Layout from '../components/Layout';
+import AppBar from '../components/AppBar';
 
 const SignUpScreen = () => {
   return (
     <Layout>
-      <Text>Signup Screen</Text>
+      <AppBar />
     </Layout>
   );
 };
