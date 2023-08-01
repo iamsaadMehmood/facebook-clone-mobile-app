@@ -1,6 +1,6 @@
 import {HStack, Text} from 'native-base';
 import {StyleSheet} from 'react-native';
-import {heightToDp, responsiveFontSize} from '../utils/resonsive';
+import {heightToDp, responsiveFontSize} from '../utils/responsive';
 import {Colors} from '../utils/colors';
 
 const AppBar = () => {

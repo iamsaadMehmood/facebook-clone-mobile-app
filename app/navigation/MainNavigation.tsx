@@ -8,7 +8,7 @@ const Stack = createNativeStackNavigator();
 const MainNavigation = () => {
   return (
     <Stack.Navigator
-      initialRouteName={Screens.signUp}
+      initialRouteName={Screens.login}
       screenOptions={{
         headerShown: false,
       }}>

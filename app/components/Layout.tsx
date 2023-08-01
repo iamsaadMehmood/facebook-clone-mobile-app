@@ -1,6 +1,6 @@
 import {FC, ReactNode} from 'react';
 import {SafeAreaView, StyleSheet, View} from 'react-native';
-import {heightToDp, widthToDp} from '../utils/resonsive';
+import {heightToDp, widthToDp} from '../utils/responsive';
 import {Colors} from '../utils/colors';
 interface IProps {
   children: ReactNode;
