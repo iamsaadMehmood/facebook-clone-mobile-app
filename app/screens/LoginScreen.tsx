@@ -9,7 +9,7 @@ const LoginScreen = () => {
     <Layout>
       <Text>Login</Text>
       <ButtonComponent
-        onPress={() => navigate(Screens.login)}
+        onPress={() => navigate(Screens.signUp)}
         title={'Create an Account'}
         marginTop={0}
         type={'Primary'}
